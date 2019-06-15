@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PokeDroid</string>
+
+    <!-- mensagens genericas de erro-->
+    <string name="network_error_try_again">Tente novamente</string>
+    <string name="network_error_server">Serviço indisponível</string>
+    <string name="network_error_bad_request">Tente novamente</string>
+    <string name="network_error_unauthorized">Usuário não autorizado</string>
+    <string name="network_error_not_found">Não encontrado</string>
+    <string name="network_error_connection">Você está sem conexão com a internet!</string>
+    <string name="network_error_canceled">Tente novamente</string>
+
+    <string name="id_pokemon">ID: %1$s</string>
+    <string name="height_pokemon">Altura: %1$s</string>
+    <string name="weight_pokemon">Peso: %1$s</string>
+    <string name="xp_pokemon">Experiência: %1$s</string>
+
+</resources>
