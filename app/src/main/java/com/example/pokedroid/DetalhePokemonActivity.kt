@@ -42,6 +42,7 @@ class DetalhePokemonActivity : AppCompatActivity() {
         }
 
         toolbar.setNavigationOnClickListener { onBackPressed() }
+
     }
 
     private fun bindUI(pokemon: Pokemon) {

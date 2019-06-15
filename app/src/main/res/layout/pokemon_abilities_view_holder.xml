@@ -24,6 +24,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="24dp"
         android:text="Overgrow"
+        android:textStyle="bold"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="@+id/dotSymbol"
         app:layout_constraintEnd_toEndOf="parent"
